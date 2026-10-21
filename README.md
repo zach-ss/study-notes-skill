@@ -15,6 +15,16 @@ It can also reformat your own notes into the same table without rewriting your w
 
 ## Install
 
+### Quick start (no GitHub experience needed)
+
+1. Open the `study-notes` folder above, click **`SKILL.md`**, then click the **copy icon** at the top right of the file.
+2. Paste it into a new chat in **ChatGPT, Claude or Gemini**.
+3. Attach your slides, textbook pages or notes and say what you want, for example:
+   > make study notes from these slides, max 2 pages
+
+> [!NOTE]
+> **Before you start:** this needs an AI mode that can create files for you, because the Word file is built by a small script inside the chat. If yours can't, it gives you the notes as a table in the chat instead.
+
 ### Claude (recommended)
 
 1. Download SKILL.md.
